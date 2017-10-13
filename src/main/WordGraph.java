@@ -2,7 +2,7 @@ import org.apache.batik.transcoder.TranscoderException;
 import org.apache.batik.transcoder.TranscoderInput;
 import org.apache.batik.transcoder.TranscoderOutput;
 import org.apache.batik.transcoder.image.PNGTranscoder;
-
+//haha
 import java.awt.image.BufferedImage;
 import java.io.*;
 import java.util.*;
